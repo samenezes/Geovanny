@@ -1,0 +1,10 @@
+
+
+.container {
+    width: 100%;
+    min-height: 90vh;
+    margin-left: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
